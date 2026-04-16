@@ -10,7 +10,7 @@
 <h1>—> Utilizando:</h1>
 
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="600" alt="Laravel Logo"></a></p>
 </div>
 
 <p align="center">
@@ -19,14 +19,21 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
 <div align="center">
+
+<br>
+
 ## ★ Telas do Projeto ★
-    <br/>
+
 | Tela de Home | Tela de Cadastro | Tela de Login |
 |--------------|------------------|---------------|
-| <img src="Img/home.jpeg" width="150px"> | <img src="Img/cadastro.jpeg" width="150px"> | <img src="Img/login.jpeg" width="150px"> |
+| <img src="Img/home.jpeg" width="350px"> | <img src="Img/cadastro.jpeg" width="350px"> | <img src="Img/login.jpeg" width="350px"> |
+
+
 </div>
+
+<br>
+
 
 ## About Laravel
 
