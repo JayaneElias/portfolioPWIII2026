@@ -1,4 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E76F00&section=header" width="100%" style="display:block; margin:0;">
+
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=F9841A&text=portfolio_PWIII-2026&reversal=true&textBg=false&fontColor=fff&fontSize=40" />
+</div>
+
+
+<div align="center">
+<h1>—> Utilizando:</h1>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+</div>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -6,6 +19,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+<div align="center">
+## ★ Telas do Projeto ★
+    <br/>
+| Tela de Home | Tela de Cadastro | Tela de Login |
+|--------------|------------------|---------------|
+| <img src="Img/home.jpeg" width="150px"> | <img src="Img/cadastro.jpeg" width="150px"> | <img src="Img/login.jpeg" width="150px"> |
+</div>
 
 ## About Laravel
 
@@ -57,3 +78,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+##
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E76F00&section=footer" width="100%" style="display:block; margin:0;">
+</div>
